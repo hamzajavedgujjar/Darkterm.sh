@@ -1,1 +1,0 @@
-# Darkterm.sh
